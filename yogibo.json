@@ -10,7 +10,7 @@
 	"APPLOVIN_BANNER": "4b077c7280cd3698",
 	"APPLOVIN_INTERSTITIAL": "c0609221edb5e2b2",
 
-	"whichAds": 0,
+	"whichAds": 1,
 	
 	"popAppLink": "htp",
 	"popAppName": "Gap",
@@ -18,7 +18,7 @@
 	"popAppPackage": "cp",
 	"popAppIsActive": false,
 
-	"BUTTON_NAME_1": "START",
+	"BUTTON_NAME_1": "START Tjmaxx",
 	"BUTTON_NAME_2": "GO TO SHOP",
 
 	"URL" : "https://yogibo.com/",
